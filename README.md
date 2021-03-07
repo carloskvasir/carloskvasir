@@ -22,7 +22,7 @@ I am a passionate about science and and programming, I like to see the things I 
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloskvasir&hide=html&layout=compact&theme=algolia" /></td>
   </tr>  
     <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=carloskvasir&repo=Angular-Netflix&theme=algolia" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=carloskvasir&repo=rocketpay&theme=algolia" /></td>
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=carloskvasir&repo=nlweek2-backend&theme=algolia" /></td>
   </tr>  
 </table>
