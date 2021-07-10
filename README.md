@@ -2,7 +2,7 @@
 
   [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/carloskvasir)][GitHub]
   [![Linkedin Badge](https://img.shields.io/badge/-Carlos%20Lima%20%28Kvasir%29-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carloskvasir)][Linkedin]
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carloskvasir@gmail.com)][Gmail] 
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:git@carloskvasir.dev)][Gmail] 
   [![Twitter Badge](https://img.shields.io/badge/-@carloskvasir-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/carloskvasir)][Twitter] 
   
 My name is Carlos Lima, i'm a front-end developer that aiming to be a fullstack developer. 
@@ -28,7 +28,7 @@ I am a passionate about science and and programming, I like to see the things I 
 </table>
 </center>
 
-[Gmail]:mailto:carloskvasir@gmail.com
+[Gmail]:mailto:git@carloskvasir.dev
 [Twitter]:https://twitter.com/carloskvasir
 [GitHub]:https://github.com/carloskvasir
 [Linkedin]: https://www.linkedin.com/in/carloskvasir
