@@ -5,13 +5,13 @@
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:git@carloskvasir.dev)][Gmail] 
   [![Twitter Badge](https://img.shields.io/badge/-@carloskvasir-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/carloskvasir)][Twitter] 
   
-My name is Carlos Lima, i'm a front-end developer that aiming to be a fullstack developer. 
+My name is Carlos Lima, i'm a back-end developer that aiming to be a fullstack developer. 
 <br/>
 I am a passionate about science and and programming, I like to see the things I just finished doing :heavy_check_mark:.
 
  - :earth_africa: Languages: :brazil: Portuguese and :us: English
  - :wrench: Tools: GraphQL, REST, Linux and Docker
- - :computer: Techs: Javascript, ReactJS, React Native, CSS, Typescript and NodeJS
+ - :computer: Techs: Ruby, Ruby on Rails, Javascript, ReactJS, Typescript and NodeJS
  
  Thank you for reading this far and don't forget to add me on [Linkedin].
  
