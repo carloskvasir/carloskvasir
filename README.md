@@ -1,34 +1,31 @@
-## <Hello, world! I'm Carlos />
+# Hello, World! I'm Carlos
 
-  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/carloskvasir)][GitHub]
-  [![Linkedin Badge](https://img.shields.io/badge/-Carlos%20Lima%20%28Kvasir%29-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carloskvasir)][Linkedin]
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:git@carloskvasir.dev)][Gmail] 
-  [![Twitter Badge](https://img.shields.io/badge/-@carloskvasir-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/carloskvasir)][Twitter] 
-  
-My name is Carlos Lima, i'm a back-end developer that aiming to be a fullstack developer. 
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/carloskvasir)][GitHub]
+[![LinkedIn Badge](https://img.shields.io/badge/-Carlos%20Kvasir%20Lima-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/carloskvasir)][LinkedIn]
+
+
+I'm Carlos Kvasir, a back-end developer aiming to become a full-stack developer.  
 <br/>
-I am a passionate about science and and programming, I like to see the things I just finished doing :heavy_check_mark:.
+I am passionate about science and programming. I enjoy seeing the results of my work :heavy_check_mark:.
 
- - :earth_africa: Languages: :brazil: Portuguese and :us: English
- - :wrench: Tools: GraphQL, REST, Linux and Docker
- - :computer: Techs: Ruby, Ruby on Rails, Javascript, ReactJS, Typescript and NodeJS
- 
- Thank you for reading this far and don't forget to add me on [Linkedin].
- 
+- :earth_africa: **Languages:** :brazil: Portuguese and :us: English
+- :wrench: **Tools:** GraphQL, REST, Linux, and Docker
+- :computer: **Technologies:** Ruby, Ruby on Rails, JavaScript, ReactJS, TypeScript, and NodeJS
+
+Thank you for reading this far. Don't forget to connect with me on [LinkedIn].
+
 <center>
 <table>
   <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=carloskvasir&theme=algolia" /></td>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloskvasir&hide=html&layout=compact&theme=algolia" /></td>
+      <td><img width="400px" src="https://github-readme-stats.vercel.app/api?username=carloskvasir&theme=algolia" /></td>
+      <td><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloskvasir&hide=html&layout=compact&theme=algolia" /></td>
   </tr>  
     <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=carloskvasir&repo=rocketpay&theme=algolia" /></td>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=carloskvasir&repo=nlweek2-backend&theme=algolia" /></td>
+      <td><img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=carloskvasir&repo=rocketpay&theme=algolia" /></td>
+      <td><img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=carloskvasir&repo=nlweek2-backend&theme=algolia" /></td>
   </tr>  
 </table>
 </center>
 
-[Gmail]:mailto:git@carloskvasir.dev
-[Twitter]:https://twitter.com/carloskvasir
 [GitHub]:https://github.com/carloskvasir
-[Linkedin]: https://www.linkedin.com/in/carloskvasir
+[LinkedIn]:https://www.linkedin.com/in/carloskvasir
