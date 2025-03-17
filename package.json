@@ -1,0 +1,24 @@
+{
+  "name": "carloskvasir",
+  "version": "0.1.0",
+  "description": "Info about Carlos Kvasir",
+  "main": "carloskvasir.json",
+  "type": "commonjs",
+  "scripts": {
+    "bump:minor": "npm version minor",
+    "postversion": "npm publish"
+  },
+  "bin": {
+    "carloskvasir": "carloskvasir.js"
+  },
+  "keywords": [
+    "carloskvasir"
+  ],
+  "author": "Carlos Kvasir",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carloskvasir/carloskvasir.git"
+  },
+  "homepage": "https://carloskvasir.dev"
+}
