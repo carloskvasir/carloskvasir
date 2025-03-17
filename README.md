@@ -2,6 +2,7 @@
 [![GitHub](https://i.sstatic.net/tskMh.png) GitHub][GitHub]  
 
 ## I'm Carlos Kvasir, a back-end developer with aspirations of becoming a full-stack developer
+> Run `npx carloskvasir` at your terminal to see my contact info
 
 I'm passionate about programming and understanding how things work.
 
